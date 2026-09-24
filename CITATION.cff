@@ -1,0 +1,15 @@
+cff-version: 1.0.0
+message: "Bibliographic metadata for reference to FieldMoist. Citation does not grant a license or permission to use the project."
+title: "FieldMoist: A Web-Based System for Generating and Visualizing Daily 100-m Farmland Soil Moisture Products"
+type: Web application
+version: 1.0.0
+date-released: 2026-09-24
+authors:
+  - family-names: "Contributors"
+    given-names: "FieldMoist"
+keywords:
+  - Web application
+  - Farmland soil moisture
+  - Spatiotemporal fusion
+  - Remote sensing retrieval
+  - Precision agriculture
